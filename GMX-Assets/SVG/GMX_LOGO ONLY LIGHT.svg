@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="608" height="472" viewBox="0 0 608 472">
+  <defs>
+    <clipPath id="clip-GMX_LOGO_ONLY_LIGHT">
+      <rect width="608" height="472"/>
+    </clipPath>
+  </defs>
+  <g id="GMX_LOGO_ONLY_LIGHT" data-name="GMX_LOGO ONLY LIGHT" clip-path="url(#clip-GMX_LOGO_ONLY_LIGHT)">
+    <g id="LOGO_GMX" data-name="LOGO GMX" transform="translate(1.317 -16.974)">
+      <rect id="BASE" width="608" height="472" transform="translate(-1.317 16.974)" fill="rgba(255,255,255,0)"/>
+      <path id="Path_1591" data-name="Path 1591" d="M1070.463,1104.6,798.486,696,525.667,1104.6H905.756L798.486,948.649l-53.212,81.022H688.683l109.8-162.915L957.28,1104.6Z" transform="translate(-494.667 -647.027)" fill="rgba(255,255,255,0.99)"/>
+    </g>
+  </g>
+</svg>

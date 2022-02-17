@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="472" height="472" viewBox="0 0 472 472">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.825" y1="0.105" x2="0.21" y2="0.846" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#03d1cf" stop-opacity="0.988"/>
+      <stop offset="1" stop-color="#4e09f8"/>
+    </linearGradient>
+    <clipPath id="clip-GLP_LOGO_ONLY">
+      <rect width="472" height="472"/>
+    </clipPath>
+  </defs>
+  <g id="GLP_LOGO_ONLY" data-name="GLP_LOGO ONLY" clip-path="url(#clip-GLP_LOGO_ONLY)">
+    <g id="GLP_LOGO" data-name="GLP LOGO" transform="translate(-0.167 -60.745)">
+      <rect id="BASE" width="472" height="472" transform="translate(0.167 60.745)" fill="rgba(255,255,255,0)"/>
+      <g id="LOGO" transform="translate(32.167 92.145)">
+        <path id="Union_14" data-name="Union 14" d="M22.3,297.373,19.116,291.3H72.694L74,293.172a158.27,158.27,0,0,0,156.741,66.7c80.366-13.68,137.183-86.907,130.781-167.969l-95.707-.171,27.919,79.018-34.17,47L198.2,143.765l201.908.341.778,3.01a181.225,181.225,0,0,1,5.473,23.442,197.28,197.28,0,0,1,2.837,34.174c0,97.864-70.625,184.771-170.424,201.63A228.085,228.085,0,0,1,204.1,409.2,203.355,203.355,0,0,1,22.3,297.373Zm34.346-32.7H8.8l-.854-3.008a185.637,185.637,0,0,1-5.046-23.1C-15.958,127.416,59.211,21.663,170.409,2.929A203.846,203.846,0,0,1,386.753,111.238l3.189,6.075h-53.9l-1.381-1.874a157.84,157.84,0,0,0-156.49-66.528C97.8,62.59,40.808,135.818,47.21,216.71l96.058.169-27.994-79.018,34.4-47,61.21,173.987Z" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+  </g>
+</svg>
