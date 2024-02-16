@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.536" y1="0.026" x2="0.011" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#03d1cf" stop-opacity="0.988"/>
+      <stop offset="1" stop-color="#4e09f8"/>
+    </linearGradient>
+  </defs>
+  <g id="GMX_CIRCLE" data-name="GMX CIRCLE" transform="translate(-60 -60)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="540" cy="540" r="540" transform="translate(60 60)" fill="#192631"/>
+    <path id="Path_1591" data-name="Path 1591" d="M1379.219,1336.168,953.1,696,525.667,1336.168h595.5L953.1,1091.834l-83.369,126.94H781.07L953.1,963.53l248.793,372.639Z" transform="translate(-351.323 -474.616)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
